@@ -1,7 +1,3 @@
-- name: Home
-  link: /home/
-  new_window: false
-  highlight: false
 - name: Members
   link: /members/
   new_window: false
