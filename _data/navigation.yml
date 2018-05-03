@@ -1,16 +1,16 @@
+- name: Home
+  link: /home/
+  new_window: false
+  highlight: false
 - name: Members
   link: /members/
   new_window: false
   highlight: false
-- name: Seminar
-  link: /seminar/
+- name: Events
+  link: /events/
   new_window: false
   highlight: false
 - name: Contact
   link: /contact/
   new_window: false
   highlight: false
-- name: Sign Up
-  link: /
-  new_window: true
-  highlight: true
